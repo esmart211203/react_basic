@@ -3,7 +3,7 @@ React là thư viện JavaScript phổ biến nhất để xây dựng giao di�
 Components của công cụ này được phát triển bởi Facebook. Nó được ra mắt như một công cụ JavaScript mã nguồn mở vào năm 2013.
 
 ** Tại sao sử dụng React?
-1. Dễ sử dụng
+1.Dễ sử dụng
 React là một thư viện GUI nguồn mở JavaScript tập trung vào một điều cụ thể; hoàn thành nhiệm vụ UI hiệu quả. Nó được phân loại thành kiểu “V” trong mô hình MVC (Model-View-Controller).
 
 2.Viết component dễ dàng hơn
